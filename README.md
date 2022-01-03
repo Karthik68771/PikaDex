@@ -1,7 +1,7 @@
 ![Logo](assets/logo.png)
 
-## What is Rotomgram?
-Rotomgram is a Telegram Bot that provides all informations about Pokémon. It's accessible through this link https://t.me/RotomgramBot or writing @RotomgramBot on Telegram search bar
+## What is PikaDex?
+Pikadex is a Telegram Bot that provides all informations about Pokémon. It's accessible through this link https://t.me/PikaDexBot or writing @PikaDexBot on Telegram search bar
 
 ## Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
